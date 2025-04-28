@@ -7,6 +7,6 @@
 ---
 
 ### things I know (or so I think)
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,nix,bash,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,postgres,nix,bash,git)](https://skillicons.dev)
 ### leeeaaarrrnnniiinnngggg
-[![My Skills](https://skillicons.dev/icons?i=python,cmake,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ts,cmake,docker)](https://skillicons.dev)
