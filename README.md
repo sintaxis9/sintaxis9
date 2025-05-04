@@ -9,4 +9,4 @@
 ### stuff i (think i) know :p
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,postgres,nix,bash,git)](https://skillicons.dev)
 ### leeeaaarrrnnniiinnngggg
-[![My Skills](https://skillicons.dev/icons?i=python,ts,cmake,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,python,docker,ts)](https://skillicons.dev)
